@@ -1,0 +1,13 @@
+[
+  {
+    "name": "telex",
+    "description": "telex company",
+    "address": "1, helmon, NY",
+    "website": "http://www.telex.com",
+    "phone": "51444174",
+    "jobs": ["fullstack", "frontend", "backend"],
+    "email": "test@test.com",
+    "remote": "true",
+    "createAt": "21/09/2021"
+  }
+]
